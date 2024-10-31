@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Libeamlak W.</h1>
+<h1 align="center">Hello, I'm Libeamlak W.</h1>
 <h3 align="center">A passionate Mobile Application Developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=libe12&label=Profile%20views&color=0e75b6&style=flat" alt="libe12" /> </p>
